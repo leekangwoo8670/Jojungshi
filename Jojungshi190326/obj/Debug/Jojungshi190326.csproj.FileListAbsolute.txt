@@ -1,0 +1,50 @@
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe.config
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.pdb
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csprojAssemblyReference.cache
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form1.resources
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form2.resources
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form3.resources
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form4.resources
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Properties.Resources.resources
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.GenerateResource.cache
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.CoreCompileInputs.cache
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.exe
+C:\Users\dlehg\source\repos\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.pdb
+E:\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe.config
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.exe
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.pdb
+E:\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe
+E:\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.pdb
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csprojResolveAssemblyReference.cache
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form1.resources
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form2.resources
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form3.resources
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form4.resources
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Properties.Resources.resources
+E:\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.GenerateResource.Cache
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe.config
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.exe
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.pdb
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csprojResolveAssemblyReference.cache
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form1.resources
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form2.resources
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form3.resources
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form4.resources
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Properties.Resources.resources
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.GenerateResource.Cache
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe
+C:\Users\a\OneDrive - kmou.ac.kr\교재 및 학업\과목별 자료\3-1\조정시\c#\말똥가리\c\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.pdb
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe.config
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.exe
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\bin\Debug\Jojungshi190326.pdb
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csprojAssemblyReference.cache
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form1.resources
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form2.resources
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form3.resources
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Form4.resources
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.Properties.Resources.resources
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.GenerateResource.cache
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.exe
+C:\Users\admin\Documents\카카오톡 받은 파일\Jojungshi190326\Jojungshi190326\obj\Debug\Jojungshi190326.pdb
