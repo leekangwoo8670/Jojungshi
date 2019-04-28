@@ -18,7 +18,7 @@ namespace Jojungshi190326
         {
             InitializeComponent();
         }
-
+        // 주석추가
         private void search_btn_Click(object sender, EventArgs e)
         {
             platform = platform_cmb.Text;
